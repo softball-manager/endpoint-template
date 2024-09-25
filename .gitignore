@@ -21,3 +21,6 @@ vendor/
 go.work
 
 bin/
+bootstrap
+function.zip
+.aws-sam/
